@@ -2,6 +2,8 @@
 
 A simple web dashboard built with Flask and Dash to visualize Malaysia's population data from the [data.gov.my](https://api.data.gov.my/data-catalogue?id=population_malaysia) API.
 
+![Dashboard Demo](https://imgur.com/a/pop-dashboard-image-rKBdACc)
+
 ## 🚀 Getting Started: Set Up and Run the App
 
 Follow these steps to run the app locally on your machine.
